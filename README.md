@@ -41,6 +41,6 @@ Passionate about turning raw data into actionable insights and building AI-power
 ## Connect With Me  
 - 📧 Email: **yalamakuricharan@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/yalamakurucharan-datascience](linkedin.com/in/yalamakurucharan-datascience)  
-- 💻 GitHub: [github.com/yalamakurucharan](https://github.com/yalamakurucharan)  
+- 💻 GitHub: [https://github.com/cherry990](https://github.com/cherry990)
 
 ---
