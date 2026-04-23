@@ -1,8 +1,9 @@
 # yalamakurucharan
 # Hi 👋 I'm Venkata Charan  
 
-Aspiring Data Analyst & Data Scientist | Skilled in Python, SQL, Power BI, and Machine Learning  
-Passionate about turning raw data into actionable insights and building AI-powered solutions.  
+Data Analyst with 6 months of consulting internship experience at Rubixe.com. I build dashboards, run EDA, and translate messy data into decisions that business teams can act on.
+Built Power BI dashboards that cut manual reporting by 10+ hours/week. Developed ML models (Random Forest, XGBoost) to predict term deposits for a Portuguese bank marketing campaign. Automated MIS reporting pipelines and improved report accuracy by 20%.
+Core stack: Python (Pandas, NumPy, Scikit-learn) · SQL · Power BI · Looker Studio · Advanced Excel · EDA · Predictive Modeling · Statistical Analysis.
 
 ---
 
