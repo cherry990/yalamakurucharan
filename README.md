@@ -40,7 +40,7 @@ Passionate about turning raw data into actionable insights and building AI-power
 
 ## Connect With Me  
 - 📧 Email: **yalamakuricharan@gmail.com**  
-- 💼 LinkedIn: [www.linkedin.com/in/yalamakuru-venkata-charan](www.linkedin.com/in/yalamakuru-venkata-charan)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/yalamakuru-venkata-charan](https://www.linkedin.com/in/yalamakuru-venkata-charan)
 - 💻 GitHub: [https://github.com/cherry990](https://github.com/cherry990)
 
 ---
